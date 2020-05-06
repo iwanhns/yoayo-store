@@ -1,0 +1,7 @@
+PENGGUNA
+email = iwan.pengguna@email.com
+pass = pengguna123
+
+ADMIN
+email = iwan.admin@email.com
+pass = admin123
